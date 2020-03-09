@@ -1,5 +1,5 @@
-# Dragon Ball / Anime Video Series
-Dragon Ball Super App for Windows 10 and Android.
+# Dragon Ball Super / Anime Video Series For Windows 10 and Android
+Includes all episodes. 
 
 Download from these links below.
 
