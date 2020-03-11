@@ -1,0 +1,41 @@
+------------------------------
+Windows 10 Installation:
+Open index.html by double clicking it
+Click Get this app to start the install
+Enjoy
+Thank You!!!
+------------------------------
+
+
+------------------------------
+Android:
+Works on Phone and Tablet
+Android Min Version: 6
+
+1. Connect your android to your computer
+2. Add the .apk File to your phones folder such as the download folder
+3. Open the .apk file with your files manager app (If you dont have the file manager app download from google play store)
+4. Open the folder where you copyed the .apk to in this example the folder is the downloads folder and open the apk.
+5. Install
+6. Enjoy
+
+If you are having problems installing the app or your phone/tablet or your phone/tablet wont allow the app to be installed. Please visit these sites for more information:
+
+https://www.applivery.com/docs/troubleshooting/android-unknown-sources/
+
+https://android.gadgethacks.com/how-to/android-basics-enable-unknown-sources-sideload-apps-0161947/
+
+https://www.youtube.com/watch?v=4X5hOvH-fbs
+------------------------------
+
+
+
+------------------------------
+Additional Info:
+If for some reason these apps do not work well for you please let us know so we can fix the issues.
+
+Our email is:
+videoapps.net@outlook.com
+
+If you can please provide a picture of the error you get, from your android or Windows version and a description of the problem. Thank you.
+------------------------------
