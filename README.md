@@ -1,4 +1,4 @@
-# Dragon Ball Super Anime Video Series / For Windows and Android
+# Anime Videos Collection / For Windows and Android
 Includes all episodes, list and download links below or copy this repository.
 <br/>
 <br/>
