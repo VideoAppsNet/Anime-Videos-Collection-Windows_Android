@@ -2,12 +2,12 @@
 Includes all episodes. Download from these links below.
 <br/>
 <br/>
-Windows 10:
+Windows 10 Direct Download:
 <br/>
 http://51.91.170.33/W10/CollectionApps/animeVideos/
 <br/>
 <br/>
-Android:
+Android Direct Download:
 <br/>
 http://51.91.170.33/Android/CollectionApps/animeVideos.animeVideos.apk
 <br/>
@@ -29,7 +29,3 @@ https://www.videoapps.net
 <br/>
 <br/>
 <img src="http://51.91.170.33/W10/CollectionApps/animeVideos/3.png" />
-<br/>
-<br/>
-Torrent:
-<br/>
